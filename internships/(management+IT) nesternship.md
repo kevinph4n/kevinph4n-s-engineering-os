@@ -7,20 +7,20 @@ Nesternship 2026 is a Nestlé's flagship internship journey for ambitious studen
 ---
 ## What WILL YOU HAVE FROM NESTERNSHIP 2026?
 
-Engaging in REAL PROJECTS and tackling the REAL CHALLENGES of business
-Learn and grow under the expert guidance from mentors, functional coaches, and buddies
-Fast-track to Nestlé #SparkTheNext Leaders - Management Trainee program or full-time roles
-Exclusive training sessions that enhance your current role and support your future career growth.
-Professional MNCs & #SPARK environment
-Competitive internship allowance
-Nestlé official certificate
+- Engaging in REAL PROJECTS and tackling the REAL CHALLENGES of business
+- Learn and grow under the expert guidance from mentors, functional coaches, and buddies
+- Fast-track to Nestlé #SparkTheNext Leaders - Management Trainee program or full-time roles
+- Exclusive training sessions that enhance your current role and support your future career growth.
+- Professional MNCs & #SPARK environment
+- Competitive internship allowance
+- Nestlé official certificate
 
 ---
 
 ## WHO AND WHAT ARE WE LOOKING FOR?
 
-Fresh Graduate (less than 1 year of experience) or Senior students with GPA from 2.7/4 or equivalent
-Be a team player with strong communication and interpersonal skills
-Prove good sense of business acumen, critical thinking
-Fluent in English & communication
-Available for a 6-month internship period from September 2026
+- Fresh Graduate (less than 1 year of experience) or Senior students with GPA from 2.7/4 or equivalent
+- Be a team player with strong communication and interpersonal skills
+- Prove good sense of business acumen, critical thinking
+- Fluent in English & communication
+- Available for a 6-month internship period from September 2026
