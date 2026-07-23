@@ -49,6 +49,7 @@ engineering-os/
 ├── journal/
 │   ├── monthly.md
 │   └── mistakes-and-lessons.md
+│   └── wins.md
 │
 ├── archive/
 │
