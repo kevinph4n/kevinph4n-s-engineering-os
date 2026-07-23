@@ -48,10 +48,14 @@ engineering-os/
 │
 ├── journal/
 │   ├── monthly.md
-│   └── mistakes-and-lessons.md
+│   ├── mistakes-and-lessons.md
 │   └── wins.md
 │
 ├── archive/
+│   └── all-the-old-things/
+│       ├──
+|   
+|
 │
 └── README.md
 ```
